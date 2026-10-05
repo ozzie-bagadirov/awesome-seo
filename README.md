@@ -27,6 +27,7 @@
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
 - [vercel-seo-audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI SEO audit for Next.js projects. 🔓
+- [Website SEO Audit, Broken Links & Change Monitor](https://apify.com/ozzie_bagadirov/seo-audit-change-monitor) - Technical SEO audit on Apify with 75 checks, a fix for each issue and a list of changes since the last run. 💵
 - [WebsiteReady](https://websiteready.org/) - Free pre-launch website checklist with AI-readiness checks. 🆓
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
 
